@@ -1,3 +1,16 @@
+Name: Brandon Nguyen
+Date: 2/6/2024
+Lab Name: TechNewsHomePage
+Brief Description: Recreated a website using tailwind or bootstrap. Had to make it responsive
+Peer Reviewer: 
+Peer Review Comments: 
+
+
+
+
+
+
+
 # Frontend Mentor - News homepage
 
 ![Design preview for the News homepage coding challenge](./design/desktop-preview.jpg)
