@@ -2,8 +2,8 @@ Name: Brandon Nguyen
 Date: 2/6/2024
 Lab Name: TechNewsHomePage
 Brief Description: Recreated a website using tailwind or bootstrap. Had to make it responsive
-Peer Reviewer: 
-Peer Review Comments: 
+Peer Reviewer: Jared Ly
+Peer Review Comments: The site looks great with everything being in place and pretty much everything being alinged correctly. The only thing you could change here is on your tablet mode the pictures on the bottom are a bit small, so enlarging them would look good, other than that great job!
 
 
 
